@@ -41,7 +41,7 @@
 			</div>
 				<div class="modal-body">
 					<form method="post">
-					<center> 
+					<center>
 						<input type="email" name="email" placeholder="Email" style="width:250px;">
 						<input type="password" name="password" placeholder="Password" style="width:250px;">
 					</center>
